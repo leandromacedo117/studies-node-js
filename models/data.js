@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize')
  //  conexão mySql
- const sequelize = new Sequelize('postapp', 'root', 'Goku4622n&&', {
+ const sequelize = new Sequelize('postapp', 'root', 'suaSenhaSql', {
          host: "localhost",
          dialect: 'mysql'
  })
